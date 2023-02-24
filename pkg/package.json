@@ -1,0 +1,13 @@
+{
+  "name": "maxflow-wasm",
+  "version": "0.1.0",
+  "files": [
+    "maxflow_wasm_bg.wasm",
+    "maxflow_wasm.js",
+    "maxflow_wasm_bg.js",
+    "maxflow_wasm.d.ts"
+  ],
+  "module": "maxflow_wasm.js",
+  "types": "maxflow_wasm.d.ts",
+  "sideEffects": false
+}
